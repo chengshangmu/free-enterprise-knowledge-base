@@ -1,0 +1,41 @@
+{
+  "taxonomy_categories": {
+    "ai-infra-systems": "AI 算力与基础设施",
+    "datacenter-and-network": "高性能网络与数据中心",
+    "distributed-systems": "分布式系统设计与高并发",
+    "llm-research-models": "大模型基座与前沿推理",
+    "rag-and-agents": "智能体与 RAG 检索工程",
+    "google-sre-principles": "SRE 稳定性与高可用架构",
+    "linux-and-kernel": "Linux 内核与高频排障实战"
+  },
+  "rss_feeds": [
+    {
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/rss/"
+    },
+    {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/feed.xml"
+    },
+    {
+      "name": "AWS Architecture",
+      "url": "https://aws.amazon.com/blogs/architecture/feed/"
+    },
+    {
+      "name": "Netflix TechBlog",
+      "url": "https://netflixtechblog.com/feed"
+    },
+    {
+      "name": "Uber Engineering",
+      "url": "https://www.uber.com/en-US/blog/engineering/rss/"
+    },
+    {
+      "name": "ArXiv cs.DC (Distributed Computing)",
+      "url": "https://rss.arxiv.org/rss/cs.DC"
+    },
+    {
+      "name": "ArXiv cs.AI (Artificial Intelligence)",
+      "url": "https://rss.arxiv.org/rss/cs.AI"
+    }
+  ]
+}
